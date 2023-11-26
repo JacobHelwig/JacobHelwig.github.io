@@ -1,24 +1,14 @@
 news:
 
+- title: "Our paper <a href='https://jacobhelwig.github.io/'>Semi-Supervised Learning for High-Fidelity Fluid Flow Reconstruction</a> has been accepted to LoG 2023."
+  date: "11/2023"
 
-# - title: "<a href='https://gitlab.com/LMSAL_HUB/aia_hub/aiapy'>aiapy</a> is now citeable! <b>available at <a href='https://zenodo.org/record/4016983#.X1gmHGdKhMN'>Zenodo</a></b>"
-#  date: "09/2020"
+- title: "Our survey paper <a href='https://arxiv.org/abs/2307.08423'>Artificial Intelligence for Science in Quantum, Atomistic, and Continuum Systems</a> has been uploaded to arXiv."
+  date: "7/2023"
 
-- title: "I was recognized as an outstanding reviewer and served as a session chair at ICML2022."
-  date: "7/2022"
-
-- title: "Our paper <a href='https://arxiv.org/abs/2204.09410'>Generating 3D Molecules for Target Protein Binding</a> has been accepted to <b>ICML 2022</b> as a <b>Long Presentation</b>."
-  date: "5/2022"
-  
-- title: "Our paper <a href='https://mengliu1998.github.io'>GraphFM: Improving Large-Scale GNN Training via Feature Momentum</a> has been accepted to <b>ICML 2022</b>."
-  date: "5/2022"
-
-- title: "Our paper <a href='https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btac112/6531963'>Advanced Graph and Sequence Neural Networks for Molecular Property Prediction and Drug Discovery</a> has been accepted to <b>Bioinformatics</b>."
-  date: "2/2022"
-
-- title: "Our paper <a href='https://openreview.net/forum?id=givsRXsOt9r'>Spherical Message Passing for 3D Molecular Graphs</a> has been accepted to <b>ICLR 2022</b>."
-  date: "1/2022"
-  
+- title: "Our paper <a href='https://arxiv.org/abs/2306.05697'>Group Equivariant Fourier Neural Operators for Partial Differential Equations</a> has been accepted to <b>ICML 2023</b>."
+  date: "4/2023"
+    
 # - title: "Our paper <a href='https://mengliu1998.github.io'>Neighbor2Seq: Deep Learning on Massive Graphs by Transforming Neighbors to Sequences</a> has been accepted to <b>SDM 2022</b>."
 #   date: "12/2021"
 
