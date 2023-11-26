@@ -56,23 +56,17 @@ experiences:
   # subtitle: "STAT 404: Statistical Computing (Fall 2021) <br/> STAT 651: Statistics in Research (Spring 2022)"
   category: "work"
 
-- place: "UT Austin Mathematics Department"
-  time: "Aug 2020 - May 2021"
-  title: "Teaching Assistant"
-  subtitle: "M 348: Scientific Computation in Numerical Analysis (Fall 2020) <br/> M 368K: Numerical Methods for Applications (Spring 2021)"
-  category: "school"
+# - place: "UT Austin Mathematics Department"
+#   time: "Aug 2020 - May 2021"
+#   title: "Teaching Assistant"
+#   subtitle: "M 348: Scientific Computation in Numerical Analysis (Fall 2020) <br/> M 368K: Numerical Methods for Applications (Spring 2021)"
+#   category: "school"
 
-  - place: "UT Austin Mathematics Department"
-  time: "Aug 2020 - May 2021"
-  title: "Teaching Assistant"
-  subtitle: "M 348: Scientific Computation in Numerical Analysis (Fall 2020) <br/> M 368K: Numerical Methods for Applications (Spring 2021)"
-  category: "school"
-
-  # - place: "Texas Institute for Discovery Education in Science"
-  # time: "Jan 2020 - Jan 2021"
-  # title: "Evaluation Fellow"
-  # # subtitle: "M 348: Scientific Computation in Numerical Analysis (Fall 2020) <br/> M 368K: Numerical Methods for Applications (Spring 2021)"
-  # category: "work"
+  - place: "Texas Institute for Discovery Education in Science"
+  time: "Jan 2020 - Jan 2021"
+  title: "Evaluation Fellow"
+  # subtitle: "M 348: Scientific Computation in Numerical Analysis (Fall 2020) <br/> M 368K: Numerical Methods for Applications (Spring 2021)"
+  category: "work"
 
 
 
