@@ -32,11 +32,11 @@ experiences:
 #   subtitle: "Mentor: <a href='https://cn.linkedin.com/in/yi-xu-a3676b105'>Yi Xu</a>"
 #   category: "work"
 
-# - place: "Los Alamos National Laboratory"
-#   time: "Summer 2023"
-#   title: "Applied Machine Learning Fellow"
-#   # subtitle: "Mentor: <a href='https://cn.linkedin.com/in/yi-xu-a3676b105'>Yi Xu</a>"
-#   category: "work"
+- place: "Los Alamos National Laboratory"
+  time: "Summer 2023"
+  title: "Applied Machine Learning Fellow"
+  # subtitle: "Mentor: <a href='https://cn.linkedin.com/in/yi-xu-a3676b105'>Yi Xu</a>"
+  category: "work"
 
 - place: "DIVE Lab"
   time: "June 2022 - now"
