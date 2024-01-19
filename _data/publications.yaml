@@ -1,5 +1,13 @@
 papers:
 
+  - title: "SineNet: Learning Temporal Dynamics in Time-Dependent Partial Differential Equations"
+    authors: "Xuan Zhang*, <b>Jacob Helwig</b>*, Yuchao Lin, Yaochen Xie, Cong Fu, Stephan Wojtowytsch, and Shuiwang Ji"
+    venue: "International Conference on Learning Representations (<b>ICLR</b>), 2024"
+    paper_pdf: "https://openreview.net/forum?id=LSYhE2hLWG"
+    code: "https://anonymous.4open.science/r/SineNet-03B2/README.md"
+    img: "/assets/imgs/SineNet.png"
+    selected: y
+
   - title: "Semi-Supervised Learning for High-Fidelity Fluid Flow Reconstruction"
     authors: "Cong Fu, <b>Jacob Helwig</b>, and Shuiwang Ji"
     venue: "Learning on Graphs Conference (<b>LoG</b>), 2023"
@@ -32,78 +40,3 @@ papers:
     paper_pdf: "https://arxiv.org/abs/2303.08979"
     code: "https://github.com/JacobHelwig/covdepGE"
     selected: y
-
-  # - title: "Spherical Message Passing for 3D Molecular Graphs"
-  #   authors: "Yi Liu*, Limei Wang*, <b>Meng Liu</b>, Yuchao Lin, Xuan Zhang, Bora Oztekin, and Shuiwang Ji"
-  #   venue: "International Conference on Learning Representations (<b>ICLR</b>), 2022"
-  #   paper_pdf: "https://openreview.net/forum?id=givsRXsOt9r"
-  #   code: "https://github.com/divelab/DIG/blob/dig/examples/threedgraph/threedgraph.ipynb"
-  #   img: "/assets/imgs/SphereNet.jpg"
-  #   selected: y
-    
-  # - title: "Neighbor2Seq: Deep Learning on Massive Graphs by Transforming Neighbors to Sequences"
-  #   authors: "<b>Meng Liu</b> and Shuiwang Ji"
-  #   venue: "SIAM International Conference on Data Mining (<b>SDM</b>), 2022"
-  #   paper_pdf: "https://arxiv.org/abs/2202.03341"
-  #   code: "https://github.com/divelab/Neighbor2Seq"
-  #   supplement: "https://github.com/divelab/Neighbor2Seq/blob/main/Neighbor2Seq_SDM2022_supp.pdf"
-  #   img: "/assets/imgs/Neighbor2Seq.png"
-  #   selected: y
-
-  # - title: "Non-Local Graph Neural Networks"
-  #   authors: "<b>Meng Liu*</b>, Zhengyang Wang*, and Shuiwang Ji"
-  #   venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>), 2021"
-  #   paper_pdf: "https://ieeexplore.ieee.org/document/9645300"
-  #   code: "https://github.com/divelab/Non-Local-GNN"
-  #   literature_collection: "https://github.com/mengliu1998/DL4DisassortativeGraphs"
-  #   img: "/assets/imgs/NLGNN.png"
-  #   selected: y
-
-  # - title: "Fast Quantum Property Prediction via Deeper 2D and 3D Graph Networks"
-  #   authors: "<b>Meng Liu*</b>, Cong Fu*, Xuan Zhang, Limei Wang, Yaochen Xie, Hao Yuan, Youzhi Luo, Zhao Xu, Shenglong Xu, and Shuiwang Ji"
-  #   venue: "<b>AI4Science Workshop at NeurIPS</b>, 2021"
-  #   paper_pdf: "https://arxiv.org/abs/2106.08551"
-  #   code: "https://github.com/divelab/MoleculeX"
-  #   img: "/assets/imgs/DeeperDAGNN.png"
-  #   selected: y 
-  #   note: "<b style='color:red !important;'>Awardee of KDD Cup 2021 on <a href='https://ogb.stanford.edu/kddcup2021/'>OGB-LSC</a> </b>"
-
-  # - title: "DIG: A Turnkey Library for Diving into Graph Deep Learning Research"
-  #   authors: "<b>Meng Liu*</b>, Youzhi Luo*, Limei Wang*, Yaochen Xie*, Hao Yuan*, Shurui Gui*, Haiyang Yu*, Zhao Xu, Jingtun Zhang, Yi Liu, Keqiang Yan, Haoran Liu, Cong Fu, Bora Oztekin, Xuan Zhang, and Shuiwang Ji"
-  #   venue: "Journal of Machine Learning Research (<b>JMLR</b>), 2021"
-  #   paper_pdf: "https://jmlr.org/papers/v22/21-0343.html"
-  #   code: "https://github.com/divelab/DIG"
-  #   code_star: "https://img.shields.io/github/stars/divelab/DIG?style=social"
-  #   documentation: "https://diveintographs.readthedocs.io/en/latest/"
-  #   img: "/assets/imgs/DIG-logo.jpg"
-  #   selected: y
-
-  # - title: "GraphEBM: Molecular Graph Generation with Energy-Based Models"
-  #   authors: "<b>Meng Liu</b>, Keqiang Yan, Bora Oztekin, and Shuiwang Ji"
-  #   venue: "<b>EBM Workshop at ICLR</b>, 2021"
-  #   paper_pdf: "https://arxiv.org/abs/2102.00546"
-  #   code: "https://github.com/divelab/DIG/blob/dig/examples/ggraph/GraphEBM"
-  #   img: "/assets/imgs/graphebm_training.png"
-  #   selected: y
-
-  # - title: "Towards Deeper Graph Neural Networks"
-  #   authors: "<b>Meng Liu</b>, Hongyang Gao, and Shuiwang Ji"
-  #   venue: "ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (<b>KDD</b>), 2020"
-  #   paper_pdf: "https://dl.acm.org/doi/abs/10.1145/3394486.3403076"
-  #   code: "https://github.com/mengliu1998/DeeperGNN"
-  #   code_star: "https://img.shields.io/github/stars/mengliu1998/DeeperGNN?style=social"
-  #   literature_collection: "https://github.com/mengliu1998/awesome-deep-gnn"
-  #   literature_collection_star: "https://img.shields.io/github/stars/mengliu1998/awesome-deep-gnn?style=social"
-  #   img: "/assets/imgs/DAGNN.jpg"
-  #   selected: y
-    
-
-    
-
-    
-
-    
-    
-    
-
-

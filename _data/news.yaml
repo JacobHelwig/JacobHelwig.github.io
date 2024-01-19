@@ -1,5 +1,8 @@
 news:
 
+- title: "Our paper <a href='https://openreview.net/forum?id=LSYhE2hLWG'>SineNet: Learning Temporal Dynamics in Time-Dependent Partial Differential Equations</a> has been accepted to <b>ICLR 2024</b>."
+  date: "1/2024"
+
 - title: "Our paper <a href='https://jacobhelwig.github.io/'>Semi-Supervised Learning for High-Fidelity Fluid Flow Reconstruction</a> has been accepted to LoG 2023."
   date: "11/2023"
 
@@ -8,22 +11,4 @@ news:
 
 - title: "Our paper <a href='https://arxiv.org/abs/2306.05697'>Group Equivariant Fourier Neural Operators for Partial Differential Equations</a> has been accepted to <b>ICML 2023</b>."
   date: "4/2023"
-    
-# - title: "Our paper <a href='https://mengliu1998.github.io'>Neighbor2Seq: Deep Learning on Massive Graphs by Transforming Neighbors to Sequences</a> has been accepted to <b>SDM 2022</b>."
-#   date: "12/2021"
-
-# - title: "Our paper <a href='https://ieeexplore.ieee.org/document/9645300'>Non-Local Graph Neural Networks</a> has been accepted to <b>TPAMI</b>."
-#   date: "12/2021"
-
-# - title: "Our paper <a href='https://jmlr.org/papers/v22/21-0343.html'>DIG: A Turnkey Library for Diving into Graph Deep Learning Research</a> has been accepted to <b>JMLR</b>."
-#   date: "09/2021"
-
-# - title: "We won a Runner-up award of <a href='https://ogb.stanford.edu/kddcup2021/'>KDD Cup on Open Graph Benchmark Large-Scale Challenge (OGB-LSC)</a>. More details are in <a href='https://arxiv.org/abs/2106.08551'>Fast Quantum Property Prediction via Deeper 2D and 3D Graph Networks</a>."
-#   date: "06/2021"
-
-# - title: "Our paper <a href='https://arxiv.org/abs/2102.00546'>GraphEBM: Molecular Graph Generation with Energy-Based Models</a> has been accepted to EBM Workshop at ICLR2021!"
-#   date: "04/2021"
-  
-# - title: "Our python library <a href='https://github.com/divelab/DIG'>DIG: Dive into Graphs</a> is released! DIG provides a unified testbed for advanced graph deep learning tasks, such as graph generation, self-supervised learning, explainability, and 3D graphs."
-#   date: "03/2021"
 
