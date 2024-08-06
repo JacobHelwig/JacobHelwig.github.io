@@ -1,17 +1,23 @@
 papers:
 
+  - title: "Equivariance via Minimal Frame Averaging for More Symmetries and Efficiency"
+    authors: "Yuchao Lin, <b>Jacob Helwig</b>, Shurui Gui, Shuiwang Ji"
+    venue: "International Conference on Machine Learning (<b>ICML</b>), 2024"
+    paper_pdf: "https://arxiv.org/abs/2406.07598"
+    selected: y
+
   - title: "SineNet: Learning Temporal Dynamics in Time-Dependent Partial Differential Equations"
     authors: "Xuan Zhang*, <b>Jacob Helwig</b>*, Yuchao Lin, Yaochen Xie, Cong Fu, Stephan Wojtowytsch, and Shuiwang Ji"
     venue: "International Conference on Learning Representations (<b>ICLR</b>), 2024"
-    paper_pdf: "https://openreview.net/forum?id=LSYhE2hLWG"
-    code: "https://anonymous.4open.science/r/SineNet-03B2/README.md"
+    paper_pdf: "https://arxiv.org/abs/2403.19507"
+    code: "https://github.com/divelab/AIRS/tree/main/OpenPDE/SineNet"
     img: "/assets/imgs/SineNet.png"
     selected: y
 
   - title: "Semi-Supervised Learning for High-Fidelity Fluid Flow Reconstruction"
     authors: "Cong Fu, <b>Jacob Helwig</b>, and Shuiwang Ji"
     venue: "Learning on Graphs Conference (<b>LoG</b>), 2023"
-    paper_pdf: "https://jacobhelwig.github.io/"
+    paper_pdf: "https://openreview.net/forum?id=695IYJh1Ba"
     code: "https://github.com/divelab/AIRS/tree/main/OpenPDE/CFRF"
     img: "/assets/imgs/CFRF.png"
     selected: y
@@ -34,9 +40,15 @@ papers:
     img: "/assets/imgs/AIRS.png"
     selected: y
 
+  - title: "A Covariate-Dependent Approach to Gaussian Graphical Modeling in R"
+    authors: "<b>Jacob Helwig</b>, Sutanoy Dasgupta, Peng Zhao, Bani K. Mallick, Debdeep Pati"
+    # venue: "<b>Bioinformatics</b>, 2022"
+    paper_pdf: "https://dl.acm.org/doi/abs/10.1145/3659206"
+    code: "https://github.com/JacobHelwig/covdepGE"
+    selected: y
+
   - title: "An Approximate Bayesian Approach to Covariate-dependent Graphical Modeling"
     authors: "Sutanoy Dasgupta, Peng Zhao, <b>Jacob Helwig</b>, Prasenjit Ghosh, Debdeep Pati, Bani K. Mallick"
     # venue: "<b>Bioinformatics</b>, 2022"
     paper_pdf: "https://arxiv.org/abs/2303.08979"
-    code: "https://github.com/JacobHelwig/covdepGE"
     selected: y
