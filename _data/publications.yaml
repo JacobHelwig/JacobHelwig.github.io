@@ -46,10 +46,12 @@ papers:
     # venue: "<b>Bioinformatics</b>, 2022"
     paper_pdf: "https://dl.acm.org/doi/abs/10.1145/3659206"
     code: "https://github.com/JacobHelwig/covdepGE"
+    img: "/assets/imgs/covdepGE.png"
     selected: y
 
   - title: "An Approximate Bayesian Approach to Covariate-dependent Graphical Modeling"
     authors: "Sutanoy Dasgupta, Peng Zhao, <b>Jacob Helwig</b>, Prasenjit Ghosh, Debdeep Pati, Bani K. Mallick"
     # venue: "<b>Bioinformatics</b>, 2022"
     paper_pdf: "https://arxiv.org/abs/2303.08979"
+    img: "/assets/imgs/CDS.png"
     selected: y
