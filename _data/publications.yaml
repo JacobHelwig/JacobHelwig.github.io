@@ -4,6 +4,7 @@ papers:
     authors: "Yuchao Lin, <b>Jacob Helwig</b>, Shurui Gui, Shuiwang Ji"
     venue: "International Conference on Machine Learning (<b>ICML</b>), 2024"
     paper_pdf: "https://arxiv.org/abs/2406.07598"
+    img: "/assets/imgs/mfa.png"
     selected: y
 
   - title: "SineNet: Learning Temporal Dynamics in Time-Dependent Partial Differential Equations"
