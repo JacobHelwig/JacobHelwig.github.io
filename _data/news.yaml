@@ -1,9 +1,15 @@
 news:
 
+- title: "I completed an internship at LinkedIn with the Foundational AI Technologies Data Team working on sequential recommendation with large transformer models."
+  date: "8/2024"
+
+- title: "Our paper <a href='https://arxiv.org/abs/2406.07598'>Equivariance via Minimal Frame Averaging for More Symmetries and Efficiency</a> is a Spotlight paper at <b>ICML 2024</b>."
+  date: "1/2024"
+
 - title: "Our paper <a href='https://openreview.net/forum?id=LSYhE2hLWG'>SineNet: Learning Temporal Dynamics in Time-Dependent Partial Differential Equations</a> has been accepted to <b>ICLR 2024</b>."
   date: "1/2024"
 
-- title: "Our paper <a href='https://jacobhelwig.github.io/'>Semi-Supervised Learning for High-Fidelity Fluid Flow Reconstruction</a> has been accepted to LoG 2023."
+- title: "Our paper <a href='https://jacobhelwig.github.io/'>Semi-Supervised Learning for High-Fidelity Fluid Flow Reconstruction</a> has been accepted to <b>LoG 2023</b>."
   date: "11/2023"
 
 - title: "Our survey paper <a href='https://arxiv.org/abs/2307.08423'>Artificial Intelligence for Science in Quantum, Atomistic, and Continuum Systems</a> has been uploaded to arXiv."
