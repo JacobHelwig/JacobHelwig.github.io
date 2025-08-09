@@ -4,6 +4,7 @@ papers:
     authors: "<b>Jacob Helwig</b>, Sai Sreeharsha Adavi, Xuan Zhang, Yuchao Lin, Felix S. Chim, Luke Takeshi Vizzini, Haiyang Yu, Muhammad Hasnain, Saykat Kumar Biswas, John J. Holloway, Narendra Singh, N. K. Anand, Swagnik Guhathakurta, Shuiwang Ji"
     venue: "Preprint"
     paper_pdf: "https://arxiv.org/abs/2506.07969"
+    code: "https://github.com/divelab/AIRS/tree/main/OpenPDE/ShockCast"
     img: "/assets/imgs/shockcast_overview.png"
     selected: y
 
@@ -11,6 +12,7 @@ papers:
     authors: "<b>Jacob Helwig</b>, Xuan Zhang, Haiyang Yu, Shuiwang Ji"
     venue: "NeurIPS 2024 ML4CFD Competition"
     paper_pdf: "https://arxiv.org/abs/2412.09399"
+    code: "https://github.com/divelab/AIRS/tree/main/OpenPDE/GeoMPNN"
     img: "/assets/imgs/geoMPNN.png"
     selected: y
 
