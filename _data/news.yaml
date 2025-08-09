@@ -1,6 +1,18 @@
 news:
 
-- title: "I completed an internship at LinkedIn with the Foundational AI Technologies Data Team working on sequential recommendation with large transformer models."
+- title: "I completed an internship at LinkedIn with the CoreAI Team working on pretraining large transformer models."
+  date: "8/2025"
+
+- title: "Our survey paper <a href='https://www.nowpublishers.com/article/Details/MAL-115'>Artificial Intelligence for Science in Quantum, Atomistic, and Continuum Systems</a> has been accepted to Foundations and Trends in Machine Learning."
+  date: "7/2025"
+
+- title: "Our paper <a href='https://arxiv.org/abs/2506.07969'>A Two-Phase Deep Learning Framework for Adaptive Time-Stepping in High-Speed Flow Modeling</a> has been uploaded to arXiv."
+  date: "6/2025"
+
+- title: "<a href='https://arxiv.org/abs/2412.09399'>GeoMPNN </a> has won Best Student Submission in the NeurIPS 2024 ML4CFD Competition."
+  date: "11/2024"
+
+- title: "I completed an internship at LinkedIn with the CoreAI Team working on sequential recommendation with large transformer models."
   date: "8/2024"
 
 - title: "Our paper <a href='https://arxiv.org/abs/2406.07598'>Equivariance via Minimal Frame Averaging for More Symmetries and Efficiency</a> is a Spotlight paper at <b>ICML 2024</b>."
