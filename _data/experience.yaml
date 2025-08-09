@@ -33,8 +33,15 @@ experiences:
 #   category: "work"
 
 - place: "LinkedIn"
+  time: "Summer 2025"
+  title: "GenAI Intern, CoreAI"
+  # subtitle: "Mentor: <a href='https://cn.linkedin.com/in/yi-xu-a3676b105'>Yi Xu</a>"
+  category: "work"
+
+
+- place: "LinkedIn"
   time: "Summer 2024"
-  title: "Artificial Intelligence Engineering Intern, Foundational AI Technologies Data Team"
+  title: "Artificial Intelligence Engineering Intern, CoreAI"
   # subtitle: "Mentor: <a href='https://cn.linkedin.com/in/yi-xu-a3676b105'>Yi Xu</a>"
   category: "work"
 
