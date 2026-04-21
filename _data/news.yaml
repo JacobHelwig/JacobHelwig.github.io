@@ -1,13 +1,20 @@
 news:
 
+- title: "<b>Multi-teacher on-policy distillation</b> is now supported in VeRL (<a href='https://github.com/verl-project/verl/pull/6051'>PR #6051</a>)."
+  date: "4/2026"
+
+- title: "Added <b>on-policy distillation</b> support to VeRL (<a href='https://github.com/verl-project/verl/pull/5041'>PR #5041</a>)."
+  date: "3/2026"
+
+- title: "Our paper <a href='https://arxiv.org/abs/2506.07969'>A Two-Phase Deep Learning Framework for Adaptive Time-Stepping in High-Speed Flow Modeling</a> has been accepted to <b>ICLR 2026</b>."
+  date: "1/2026"
+
 - title: "I completed an internship at LinkedIn with the CoreAI Team working on pretraining large transformer models."
   date: "8/2025"
 
 - title: "Our survey paper <a href='https://www.nowpublishers.com/article/Details/MAL-115'>Artificial Intelligence for Science in Quantum, Atomistic, and Continuum Systems</a> has been accepted to Foundations and Trends in Machine Learning."
   date: "7/2025"
 
-- title: "Our paper <a href='https://arxiv.org/abs/2506.07969'>A Two-Phase Deep Learning Framework for Adaptive Time-Stepping in High-Speed Flow Modeling</a> has been uploaded to arXiv."
-  date: "6/2025"
 
 - title: "<a href='https://arxiv.org/abs/2412.09399'>GeoMPNN </a> has won Best Student Submission in the NeurIPS 2024 ML4CFD Competition."
   date: "11/2024"
