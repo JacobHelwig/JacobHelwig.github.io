@@ -1,5 +1,8 @@
 news:
 
+- title: "I completed my PhD in Computer Science advised by <a href='http://people.tamu.edu/~sji/' target='_blank'>Prof. Shuiwang Ji</a>."
+  date: "5/2026"
+
 - title: "<b>Multi-teacher on-policy distillation</b> is now supported in VeRL (<a href='https://github.com/verl-project/verl/pull/6051'>PR #6051</a>)."
   date: "4/2026"
 
