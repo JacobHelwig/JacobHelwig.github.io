@@ -1,5 +1,12 @@
 papers:
 
+  - title: "Learnability-Informed Fine-Tuning of Diffusion Language Models"
+    authors: "Shubham Parashar, Atharv Chagi, <b>Jacob Helwig</b>, Lakshmi Jotsna, Sushil Vemuri, James Caverlee, Dileep Kalathil, Shuiwang Ji"
+    venue: "International Conference on Machine Learning (<b>ICML</b>), 2026"
+    paper_pdf: "https://arxiv.org/abs/2605.22939"
+    img: "/assets/imgs/LIFT_framework.png"
+    selected: y
+
   - title: "A Two-Phase Deep Learning Framework for Adaptive Time-Stepping in High-Speed Flow Modeling"
     authors: "<b>Jacob Helwig</b>, Sai Sreeharsha Adavi, Xuan Zhang, Yuchao Lin, Felix S. Chim, Luke Takeshi Vizzini, Haiyang Yu, Muhammad Hasnain, Saykat Kumar Biswas, John J. Holloway, Narendra Singh, N. K. Anand, Swagnik Guhathakurta, Shuiwang Ji"
     venue: "International Conference on Learning Representations (<b>ICLR</b>), 2026"
